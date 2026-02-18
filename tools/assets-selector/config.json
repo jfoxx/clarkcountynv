@@ -22,7 +22,7 @@
       },
       {
         "mimeType": "audio/*",
-        "value": "<a href=\"${videoUrl}\">Audio</a>"
+        "value": "<a href=\"${deliveryUrl}\">Audio</a>"
       }
     ],
     "copyMode": [
